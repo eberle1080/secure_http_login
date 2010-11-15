@@ -1,0 +1,8 @@
+I wrote this for a friend a few years ago. His hosting provider didn't allow https (or some such
+bullcrap) and he wanted a login page. I destroyed the one he had, and wrote this to show how
+to write one that (probably) isn't vulnerable.
+
+You could technically just start using this, but I make no guarantees. If the dead rise and haunt
+the studio apartment you live in because you decide to use this, don't you dare point those dead
+bastards in my direction. You were warned, you'll live with the poultergeist of login page bugs
+and like it.
